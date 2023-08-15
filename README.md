@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Grisha009
-- 👀 I’m interested in C++, Pythin, Java and JavaScript
-- I'm looking foward to introducing myself to Back-end development and Machine Learning
+- 👀 I’m interested in C++, Python, Java and JavaScript
+- I'm looking forward to introducing myself to Back-end development and Machine Learning
 - 🌱 I’m currently learning to make games in C++ -> SFML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
